@@ -30,15 +30,15 @@ Learning the arc was definitely the biggest breakthrough for me. It unlocked a s
 
 I enjoyed this project.  It was a challenge to figure out the shapes, but was satisfying to see the completed monster. It ended up being similar to what I imagined, so success!
 
-![Grump Monsta](./Grump_monsta.png)
+![Grump Monsta](./Imgs/Grump_monsta.png)
 
-![code_1](./monsta_code_1.png)
+![code_1](./Imgs/monsta_code_1.png)
 
-![code_2](./monsta_code_2.png)
+![code_2](./Imgs/monsta_code_2.png)
 
-![code_3](./monsta_code_3.png)
+![code_3](./Imgs/monsta_code_3.png)
 
-![code_4](./monsta_code_4.png)
+![code_4](./Imgs/monsta_code_4.png)
 
 ## Future work
 
