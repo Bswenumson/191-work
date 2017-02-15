@@ -31,6 +31,7 @@ var _var1;
 
 
 function setup() {
+    createCanvas
 
 }
 

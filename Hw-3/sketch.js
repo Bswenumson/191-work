@@ -26,7 +26,6 @@ function setup() {
   noFill();
   arc(467,160,25,15,HALF_PI,PI);
 
-
   // Head
 
   fill(24,110,53);
@@ -128,6 +127,7 @@ function setup() {
   triangle(310,110,310,140,325,85);
   triangle(295,130,300,150,312,95);
 
+// It is nice to know how to add a variable for this part.
   textSize(20);
   var newText;
   newText = "Grump Monsta' by Brooke Swenumson";
