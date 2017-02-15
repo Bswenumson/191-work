@@ -3,6 +3,13 @@
 
 This week our homework was to make a self portrait, monster or character. I ~obviously~ decided to make a monster.  I started by creating my canvas.  I thought to start by trying to create some background, or just make some shapes I hadn't before.
 
+## Site URL
+
+https://bswenumson.github.io/191-work/HW-3
+
+The above is a link to my Grump Monsta.  It will take you to my personal Git Hub site!
+
+## Begining
 I started with an arc. It sounded intriguing, and ended up being the hardest thing to make.  I saw the potential to make a great eye though, so I worked on it until I had what I wanted.
 
 ### First Problem
