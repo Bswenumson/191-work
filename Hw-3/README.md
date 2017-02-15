@@ -5,7 +5,7 @@ This week our homework was to make a self portrait, monster or character. I ~obv
 
 ## Site URL
 
-https://bswenumson.github.io/191-work/HW-3/
+https://bswenumson.github.io/191-work/Hw-3/
 
 The above is a link to my Grump Monsta.  It will take you to my personal Git Hub site!
 
