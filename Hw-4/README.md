@@ -1,5 +1,10 @@
 # Animation
 ### Brooke Swenumson
+### Site URL
+
+Here is my homework URL:
+https://bswenumson.github.io/191-work/Hw-4/
+
 
 This assignment to create an animated piece was initially very confusing.  I knew I wanted to have the color changing background, or element, but I had to go back and re-type out the lesson examples to orient myself to the work.
 
@@ -26,3 +31,9 @@ The thing I want to learn that would add to this for the future is creating some
 ### Conclusion
 
 I am satisfied with what I have learned for this lesson, but I know I still need to work at grasping some of the more confusing codes.
+
+![HW4_1](./Imgs/HW4_1.png)
+
+![HW4_2](./Imgs/HW4_2.png)
+
+![HW4_3](./Imgs/HW4_3.png)
