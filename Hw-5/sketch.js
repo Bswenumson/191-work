@@ -27,33 +27,40 @@ function setup() {
 
 function draw() {
 
+    // background(0, random(0, 10));
+
+    push();
     blendMode(OVERLAY);
     noStroke();
+    col.r = random (20, 150);
+    col.g = random (100, 200);
+    col.b = random (100,190);
     fill(col.r, col.g, col.b);
-    arc(valX, valY, midi, midiCat, 0, PI+QUARTER_PI, OPEN);
 
     valX = noise(midi) * width;
     valY = random(0,height);
     midi = midi + 1;
     midiCat = abs(midi * 0.5);
 
-    col.r = random (20, 150);
-    col.g = random (100, 200);
-    col.b = random (100,190);
-
     if (frameCount % 1500 === 0){midi = 20;}
+    arc(valX, valY, midi, midiCat, 0, PI+QUARTER_PI, OPEN);
+    pop();
 
 
     push();
-    // blendMode(SCREEN);
+    blendMode(SCREEN);
+    col.r = random (15, 20);
+    col.g = random (10, 100);
+    col.b = random (150, 250);
     fill(col.r,col.g,col.b);
     noStroke();
     ellipse(valX_2, valY_2, xavier, floof);
 
     valX_2 = noise(xavier) * width;
     valY_2 = random(0,height);
-    xavier = xavier + 0.001;
+    xavier = xavier + 0.01;
     floof = floof - 0.001;
+
 
     pop();
 
