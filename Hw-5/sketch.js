@@ -49,9 +49,9 @@ function draw() {
 
     push();
     blendMode(SCREEN);
-    col.r = random (15, 20);
-    col.g = random (10, 100);
-    col.b = random (150, 250);
+    col.r = random (150, 255);
+    col.g = random (0, 10);
+    col.b = random (100, 150);
     fill(col.r,col.g,col.b);
     noStroke();
     ellipse(valX_2, valY_2, xavier, floof);
