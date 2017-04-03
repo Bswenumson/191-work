@@ -15,6 +15,8 @@ function draw() {
     }
 }
 
+// At first I couldn't get it to show up while using a class file, so I made sure it worked here first, then transfered my work.
+
 /*function Zip(){
     this.x = random(0, 800);
     this.y = random(0, 800);

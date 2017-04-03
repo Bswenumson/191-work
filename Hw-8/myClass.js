@@ -9,6 +9,7 @@ function Zip(){
     this.speed = random(0.25 , 1);
 
     this.display = function() {
+      blendMode(DIFFERENCE);
       fill(this.r, this.g, this.b);
       ellipse(this.x, this.y, this.size, this.size);
       fill(0);
@@ -19,7 +20,7 @@ function Zip(){
       // this.x = this.x + this.speed;
       this.y = this.y - this.speed;
       if (this.y < 0 - this.size * 0.5){
-        this.y = height;
+        this.y = height + this.size * 0.5;
       }
     };
 }
