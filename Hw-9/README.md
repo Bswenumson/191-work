@@ -1,3 +1,4 @@
-# **Brooke Swenumson's MART191 Course Repo**
+# Homework 9
+### Brooke Swenumson
 
-This is a git repo for all of my work during the Spring 2017 semester at the University of Montana.
+This was by far the hardest homework. In the end I learned quite a few things, and am glad I can expand on this lil' game for the final.
